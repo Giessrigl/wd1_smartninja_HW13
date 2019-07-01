@@ -1,0 +1,1 @@
+{'first_name': 'christian', 'last_name': 'giessrigl', 'height_cm': '172', 'weight_kg': '63', 'goals': '20', 'yellow_cards': '2', 'red_cards': '1'}
